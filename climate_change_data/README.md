@@ -1,0 +1,1 @@
+In this folder we will create our own version of the data visualisation of the climate data in the "data" folder.
